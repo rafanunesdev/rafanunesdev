@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Rafaela Nunes from Brazil (🇧🇷). I've been working as Developer since 2012 and currently I'm Front-End Developer at Engineering Brasil. I'm passionate about computer programming, so I've created this profile to share my projects while learning more, to develop my skills and having fun.
+
+In my free time I like to work out (💪) or dancing (💃🏽), to read books (📚), to watch movies (🎞️) or series (📺) and whenever possible I like to get away (🧳) to know new place and new experiences.
+
+Would you like to find me?
+
+<a href="https://www.linkedin.com/in/rafaela-nunes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkdIn icon" /></a>
 <!--
 **rafanunesdev/rafanunesdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
