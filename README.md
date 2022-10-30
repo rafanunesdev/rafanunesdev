@@ -2,7 +2,7 @@
 
 My name is Rafaela Nunes from Brazil (🇧🇷). I've been working as Developer since 2012 and currently I'm Front-End Developer at Engineering Brasil. I'm passionate about computer programming, so I've created this profile to share my projects while learning more, to develop my skills and having fun.
 
-In my free time I like to work out (💪) or dancing (💃🏽), to read books (📚), to watch movies (🎞️) or series (📺) and whenever possible I like to get away (🧳) to know new place and new experiences.
+In my free time I like to work out (💪) or dancing (💃🏽), to read books (📚), to watch movies (🎞️) or series (📺) and whenever possible I like to get away (🧳) to know new place and new adventures.
 
 Would you like to find me?
 
